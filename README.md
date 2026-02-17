@@ -9,7 +9,7 @@ básicos hasta la implementación práctica de modelos de Machine Learning.
 ---
 
 
-## 🛠️ Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 - Python  
 - Pandas  
@@ -20,7 +20,7 @@ básicos hasta la implementación práctica de modelos de Machine Learning.
 
 ---
 
-## 👩🏻‍💻 Autor
+##  Autor
 
 **Alexandra Hurtado**  
 Estudiante de Ingeniería  
