@@ -31,7 +31,7 @@ The objective is to transform raw data into a clean dataset ready for modeling i
 
 ## Main Files
 
-- `pipelineInforme1.py` → Main script.
+- `pipeline.py` → Main script.
 - `DatosEncuestaInforme1.xlsx` → Original dataset.
 - `requirements.txt` → Project dependencies.
 
@@ -41,5 +41,5 @@ The objective is to transform raw data into a clean dataset ready for modeling i
 
 ```bash
 pip install -r requirements.txt
-python pipelineInforme1.py
+python pipeline.py
 
