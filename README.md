@@ -1,15 +1,14 @@
-# Fundamentos de Aprendizaje Automático
+# Fundamentals of Machine Learning
 
-Repositorio que reúne todo el material desarrollado durante la asignatura  
-**Fundamentos de Aprendizaje Automático**.
+Repository that gathers all the material developed during the course  
+**Fundamentals of Machine Learning**.
 
-Aquí se documenta el proceso de aprendizaje desde los conceptos matemáticos
-básicos hasta la implementación práctica de modelos de Machine Learning.
+This repository documents the learning process from basic mathematical concepts
+to the practical implementation of Machine Learning models.
 
 ---
 
-
-##  Tecnologías utilizadas
+## Technologies Used
 
 - Python  
 - Pandas  
@@ -20,12 +19,12 @@ básicos hasta la implementación práctica de modelos de Machine Learning.
 
 ---
 
-##  Autor
+## Author
 
 **Alexandra Hurtado**  
-Estudiante de Ingeniería  
+Engineering Student  
 
 ---
 
-> Este repositorio tiene fines académicos y documenta el proceso de aprendizaje
+> This repository is for academic purposes and documents the learning process.
 
