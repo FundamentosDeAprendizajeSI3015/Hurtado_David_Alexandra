@@ -26,14 +26,21 @@ El modelo permite identificar **qué indicadores financieros tienen mayor impact
 
 ## Estructura del proyecto
 
+
 ├── requirements.txt
+
 │
 ├── BD500Muestras/
+
 │ ├── dataset_sintetico_FIRE_UdeA_realista.csv
+
 │ └── Lecture08.py
+
 │
 └── BD80Muestras/
+
 ├── dataset_sintetico_FIRE_UdeA_realista.csv
+
 └── Lecture08.py
 
 ## Tecnologías utilizadas
